@@ -1,3 +1,25 @@
+## Start project
+
+1. Install dependencies:
+    ```bash
+    composer install
+    ```
+
+2. Start XAMPP services:
+    ```
+    Open XAMPP Control Panel and start Apache and MySQL
+    ```
+
+3. Run migrations:
+    ```bash
+    php artisan migrate
+    ```
+    
+4. Start the Laravel server:
+    ```bash
+    php artisan serve
+    ```
+    
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
