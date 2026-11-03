@@ -99,7 +99,7 @@
         <li class="ms-3"><a class="link-body-emphasis" href="https://www.facebook.com/">
             <img src="{{ asset('/images/icons8-facebook.svg') }}" class="bi" width="40" height="40" />
           </a></li>
-        <li class="ms-3"><a class="link-body-emphasis" href="https://github.com/">
+        <li class="ms-3"><a class="link-body-emphasis" href="https://github.com/GrayMurakami/CoffeeShop">
             <img src="{{ asset('/images/icons8-github.svg') }}" class="bi" width="40" height="40" />
           </a></li>
       </ul>
